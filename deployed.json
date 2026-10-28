@@ -1,0 +1,8 @@
+{
+    "site": "nightly",
+    "tag": "site-a75efdaf4281bf628af090d8fb5ed479c73760e2",
+    "sha256": "6f694f948d830da3a66eb402597f94f0cb6227c295c3f6743fd852689111d1a7",
+    "configRef": "a7c25a5f35324537274a545965db45ca08c016bb",
+    "time": "2026-10-28T06:11:22.558Z",
+    "approver": "auto"
+}
