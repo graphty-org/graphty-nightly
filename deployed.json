@@ -1,8 +1,8 @@
 {
     "site": "nightly",
-    "tag": "site-42992d937e97ea81387367251a6dc28d9d3c5127",
-    "sha256": "fcb3bc990c1f7493e133d18a57a076b4fcd8bf34f0f5994486b785e93fd31780",
-    "configRef": "790abc46ffc9bbcdb8e3a409a31215df8953f1d4",
-    "time": "2026-10-29T15:45:46.999Z",
+    "tag": "site-14339430850850b7864722392407079ed4f95464",
+    "sha256": "f886544ef30b16571e34685915c679f07c9e100b8370953fbdebad8f9b1ab613",
+    "configRef": "ddf0f3dcee0a2ca211e2605f4ea442b1acdb04e4",
+    "time": "2026-11-01T16:26:51.900Z",
     "approver": "auto"
 }
