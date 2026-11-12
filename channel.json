@@ -1,7 +1,7 @@
 {
   "channel": "nightly",
-  "commit": "6c303b16d6311d73d1089983a8e6315ffb7a32c8",
-  "versionCommit": "2766220f85af222fce97b67dea352b845ad01bee",
+  "commit": "f2613c29c032f1de83205f3a45e12d86ffea9ae3",
+  "versionCommit": "150b214700809883533f38cefe083778cd78ec9a",
   "versions": {
     "graph-format": "1.5.2",
     "graph-io": "0.3.56",
@@ -11,18 +11,18 @@
     "algorithms": "3.4.22",
     "layout": "2.7.1",
     "cytoscape-extensions": "0.0.36",
-    "graphty-element": "3.38.0",
+    "graphty-element": "3.39.0",
     "graphty": "0.8.92",
     "@graphty/remote-logger": "2.0.31",
     "compact-mantine": "0.9.41",
     "visual-review": "0.2.43",
     "githerd": "0.1.19"
   },
-  "fullRun": "43161208255",
-  "screenshots": "approved:100eedb63a4a89582032c8baf48b5944a4c5c32d",
+  "fullRun": "43165129694",
+  "screenshots": "unchanged",
   "siteConfigBlob": "9c2ed0237aac72d40f7de30a9bc2aad2dfa40062",
   "autosaveFormat": 1,
-  "siteSha256": "13c64cdbf30c2f2d5f0e054b7150f34f8176849a8ec596e5298ff7ddb170e362",
-  "promotedAt": "2026-11-12T05:41:43.234Z",
+  "siteSha256": "1503d323c754217e4d152af0b06ad444b607f69348c24fdfab16ba096438bd11",
+  "promotedAt": "2026-11-12T08:22:08.687Z",
   "promotedBy": "auto"
 }
